@@ -1,0 +1,15 @@
+html{
+    margin-right: 60%;
+}
+
+body{
+    background-color:#b3d9ff;
+}
+
+h1, h2{
+    font-family:cursive;
+}
+
+p, li{
+    font-size: 15pt;
+}

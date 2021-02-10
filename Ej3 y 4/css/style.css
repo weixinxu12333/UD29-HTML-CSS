@@ -1,0 +1,33 @@
+section {
+    background-color: #ffffcc;
+}
+
+h1 {
+    background-color: #ffd9b3;
+    color:blue;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: dodgerblue;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.tipo1 {
+    font-style: italic;
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.tipo2 {
+    font-style: bold;
+    color: darkcyan;
+    font-size: 20px;
+}
+
+.tipo3 {
+    margin-left: 20px;
+
+}

@@ -1,0 +1,60 @@
+body {
+    font-family: 'Lucida Sans Unicode';
+    width: 900px;
+}
+
+h1 {
+    color: green;
+    text-align: center;
+    letter-spacing: 0.2em;
+    background-image: url(imagenes/panoramica.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    padding-top: 180px;
+}
+
+h2 {
+    color: greenyellow;
+    border-bottom: greenyellow 1px solid;
+}
+
+h3 {
+    color: orange;
+}
+
+.naranja {
+    color: orange;
+}
+
+.contenedor {
+    border: gray 1px solid;
+    padding: 20px;
+    margin-left: 150px;
+    background-image: linear-gradient(lightgray, white, lightgray);
+}
+
+.menu {
+    float: left;
+    width: 100px;
+    list-style-type: none;
+}
+
+.menu li {
+    color: green;
+    border: 1px solid;
+    margin-bottom: 5px;
+    text-align: center;
+    line-height: 3;
+    background-image: linear-gradient(white, greenyellow);
+}
+
+.menu li :hover {
+    background-color: pink;
+}
+
+footer {
+    color: gray;
+    text-align: center;
+    font-style: italic;
+    margin: 10px;
+}
